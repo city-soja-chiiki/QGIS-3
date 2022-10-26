@@ -22,6 +22,3 @@
   　LIZMAP　1年に4回バージョンアップ 
   
 ## [3-3.新設サーバー本体（インターネット）  ](https://github.com/city-soja-chiiki/QGIS-3/blob/main/3-3.%E6%96%B0%E8%A8%AD%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E6%9C%AC%E4%BD%93%EF%BC%88%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%EF%BC%89%203-3-1.VPS%203-2-2.LIZMAP%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC.md)
-### 3-3-1.VPS  
-### 3-2-2.LIZMAPサーバー  
-  　LIZMAP　1年に4回バージョンアップ  
